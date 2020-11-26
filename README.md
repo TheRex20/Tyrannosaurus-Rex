@@ -17,9 +17,10 @@ Credits:
 
 <h2 id="paraTwo">Size and Facts</h2>
 <p>The T-Rex can reach very high results in multiple categories, such as length. Here are a few T-Rex statistics or facts:</p>
-<li>Length : 40-45 FT - Longer than a <strong><em>school bus!</strong></em></li>
+<li>Length : 40-45 FT - Longer than a <strong><em>school bus!</em></strong></li>
 <li>Height : 13-20 FT - Almost as tall as common 2 story <em>houses</em> </li>
 <li>Weight : 7000 KG - Weighed approximately 7 tons, almost <strong>4 times</strong> the wieght of current cars</li>
 <li>Speed : 27kph - More than average male, and female speeds</li>
 <li>Teeth Size : 1 FT - Very long teeth that were used to peirce through the T-Rex's target</li>
 <li>Bite Force : 12,800 LB - This beast bites so hard, that crushing a bone is easier than breaking a tooth pick</li>
+<li>Eye Sight : 6 KM - This creature can visually see anything at a max rate of 6 KM!</li>
