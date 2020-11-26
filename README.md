@@ -11,4 +11,4 @@ Credits:
 <li class="link-on-website"><a href="#paraOne">What is a T-Rex</a></li>
 
 <h2>What is a T-Rex?</h2>
-<p>Tthe famous Tyrannosaurus Rex, or also known as the T-Rex, is a very capable beast, and is known as the king of Dinosaurs. It has many mind-blowing facts that you would have never guessed in a million years! But coming back onto the main topic, I will tell you all about this magnificent beast. </p>
+<p>Tthe famous Tyrannosaurus Rex, or also known as the T-Rex, is a very capable beast, and is known as the king of Dinosaurs. It has many mind-blowing facts that you would have never guessed in a million years! But coming back onto the main topic, I will tell you all about this magnificent beast. There are also quite a few simple yet hard-to-respond-to questions about this animal, such as, why does it have such small arms.</p>
