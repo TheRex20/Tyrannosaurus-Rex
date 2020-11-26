@@ -8,7 +8,17 @@ Credits:
 <li>Github, for Website Platform</li>
 
 <h2>Table of Contents</h2>
-<li class="link-on-website"><a href="#paraOne">What is a T-Rex</a></li>
+<li class="link-on-website"><a href="#paraOne">What is a T-Rex?</a></li>
+<li class="link-on-website"><a href="#paraTwo">Size and Facts</a></li>
+
 
 <h2 id="paraOne">What is a T-Rex?</h2>
-<p>Tthe famous Tyrannosaurus Rex, or also known as the T-Rex, is a very capable beast, and is known as the king of Dinosaurs. It has many mind-blowing facts that you would have never guessed in a million years! But coming back onto the main topic, I will tell you all about this magnificent beast. There are also quite a few simple yet hard-to-respond-to questions about this animal, such as, why does it have such small arms? To learn more, I advise you to scroll down and read more. </p>
+<p>Tthe famous Tyrannosaurus Rex, or also known as the T-Rex, is a very capable carnivore(Eats Meat), and is known as the king of Dinosaurs. It has many mind-blowing facts that you would have never guessed in a million years! But coming back onto the main topic, I will tell you all about this magnificent beast. There are also quite a few simple yet hard-to-respond-to questions about this animal, such as, why does it have such small arms? To learn more, I advise you to scroll down and read more. </p>
+
+<h2 id="paraTwo">Size and Facts</h2>
+<p>The T-Rex can reach very high results in multiple categories, such as length. Here are a few T-Rex statistics:</p>
+<li>Length:40-45 FT - Longer than a <strong><em>school bus!</strong></em></li>
+<li>Height:13-20 FT - Almost as tall as common 2 story <em>houses</em> </li>
+<li>Weight:7000 KG - Weighed approximately 7 tons, almost <strong>4 times</strong> the wieght of current cars</li>
+<li>Speed:27kph - More than average male, and female speeds</li>
+<li>Teeth Size:1 FT - Very long teeth that were used to peirce through the T-Rex's target</li>
