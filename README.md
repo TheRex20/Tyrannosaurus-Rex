@@ -18,7 +18,7 @@ Credits:
   <li>All the Jurassic Movies</li>
   <li>Journey to the Center of the Earth</li>
   <li>Land Before Time</li>
-  And many more...
+  And many more...*P.S., watch the movies :)*
 There are also quite a few simple yet hard-to-respond-to questions about this animal, such as, why does it have such small arms? To learn more, I advise you to scroll down and read more. </p>
 
 <h2 id="paraTwo">Size and Facts</h2>
@@ -33,7 +33,7 @@ There are also quite a few simple yet hard-to-respond-to questions about this an
 <li>Eye Sight : 6 KM - This creature can visually see anything at a max rate of 6 KM!</li>
 <li>Definition of Name : Tyrant Lizard King - King of lizards, and all dinosaurs were lizards</li>
 <li>Lifespan : 30 years - Lived 65 m.y.a.(Million Years Ago)</li>
-<p>The T-Rex also is a scavenger, eats dead animals, and is a predator, hunts down predators. They could be found in packs or by themselves. Their size helped them scare off other big or small predators. For example, 3 or velociraptors honted down a triceratops. The t-rex just has to walk in, scare them with a frightening roar, and take their food. But T-Rexs' are also awesome ambushers. That means they hide, and when their prey walks in, the take one bite, and wound them. Then, they take another bite, and kill the animal. The reason it only takes a few bites, is because as I have mentioned above in the statistics, the bite force is very powerful. </p
+<p>The T-Rex also is a scavenger, eats dead animals, and is a predator, hunts down predators. They could be found in packs or by themselves. Their size helped them scare off other big or small predators. For example, 3 or velociraptors honted down a triceratops. The t-rex just has to walk in, scare them with a frightening roar, and take their food. But T-Rexs' are also awesome ambushers. That means they hide, and when their prey walks in, the take one bite, and wound them. Then, they take another bite, and kill the animal. The reason it only takes a few bites, is because as I have mentioned above in the statistics, the bite force is very powerful. </p>
 
 <h2>Characteristics</h2>
 <p><em>Image of a Tyrannosaurus Rex:</em></p>
