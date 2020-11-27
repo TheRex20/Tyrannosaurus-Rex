@@ -5,7 +5,7 @@ Everything you should know about the famous, Tyrannosaurus Rex, or a.k.a. T-Rex
 
 Credits:
 <li>Created by RB-CODER-20</li>
-<li>Github, for Website Platform</li>
+<li>Github: For Website Platform</li>
 
 <h2>Table of Contents</h2>
 <li class="link-on-website"><a href="#paraOne">What is a T-Rex?</a></li>
