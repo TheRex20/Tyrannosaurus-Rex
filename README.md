@@ -14,12 +14,12 @@ Credits:
 <li class="link-on-website"><a href="#paraFour">Conclusion</a></li>
 
 <h2 id="paraOne">What is a T-Rex?</h2>
-<p>Tthe famous Tyrannosaurus Rex, or also known as the T-Rex, is a very capable carnivore(Eats Meat), and is known as the king of Dinosaurs. It has many mind-blowing facts that you would have never guessed in a million years! But coming back onto the main topic, I will tell you all about this magnificent beast. This animal is also shown in many blockbuster movies, such as:
-  <li>All the Jurassic Movies</li>
+<p>The famous Tyrannosaurus Rex, or also known as T-Rex, is a very capable carnivore(Eats Meat), and is known as the king of Dinosaurs. It has many mind-blowing facts that you would have never guessed in a million years! But coming back onto the main topic, I will tell you all about this magnificent beast. This animal is also shown in many blockbuster movies, such as:
+  <li>All the Jurassic Movies(The Jurassic Parks or the Jurassic Worlds)</li>
   <li>Journey to the Center of the Earth</li>
   <li>Land Before Time</li>
-  And many more...*P.S., watch the movies :)*
-There are also quite a few simple yet hard-to-respond-to questions about this animal, such as, why does it have such small arms? To learn more, I advise you to scroll down and read more. </p>
+  And many more...(P.S., watch the movies)
+There are also quite a few, simple, yet hard-to-respond-to questions about this animal, such as: Why does it have such small arms? To learn more, I advise you to scroll down and read more. </p>
 
 <h2 id="paraTwo">Size and Facts</h2>
 <img src="https://cdn.britannica.com/79/8079-050-8227DE49/Tyrannosaurus.jpg">
