@@ -49,5 +49,5 @@ There are also quite a few simple yet hard-to-respond-to questions about this an
 <li>Strong Jaw</li>
 
 <h2 id="paraFour">Conclusion</h2>
-<p>In conclusion, the epic Tyrannosaurus Rex, is an apex and supreme predator that can demolish alost every animal in the Animal Kingdom. This beast is continuing to surprise us in many ways, bringing new thoughts changing our view about science. It may have been a king 65 million years ago(m.y.a.), but it's reputation still lives today, and it always will. Thanks for reading my website/article!</p>
+<p>In conclusion, the epic Tyrannosaurus Rex, is an apex and supreme predator that can demolish almost every animal in the Animal Kingdom. This beast is continuing to surprise us in many ways, bringing new thoughts, and changing our view about science. It may have been a king 65 million years ago(m.y.a.), but it's reputation still lives today, and it always will. Thanks for reading my website/article!</p>
 <img src="https://www.wired.com/images_blogs/wiredscience/2009/09/sereno2hr.jpg">
