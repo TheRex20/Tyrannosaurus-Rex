@@ -1,7 +1,7 @@
 <h1>Tyrannosaurus Rex</h1>
 Everything you should know about the famous, T-Rex, or Tyrannosaurus Rex
 
-<img src="https://cdn.newsapi.com.au/image/v1/c32e77ada066e25b416c4c515f35049f?width=400"> 
+<img src="https://cdn.newsapi.com.au/image/v1/c32e77ada066e25b416c4c515f35049f?width=400">
 
 Credits:
 <li>Created by RB-CODER-20</li>
@@ -49,5 +49,5 @@ There are also quite a few simple yet hard-to-respond-to questions about this an
 <li>Strong Jaw</li>
 
 <h2 id="paraFour">Conclusion</h2>
-<p>In conclusion, the epic Tyrannosaurus Rex, is an apex and supreme predator that can demolish alost every animal in the Animal Kingdom. This beast is continuing to surprise us in many ways, bringing new thoughts changing our view about science. It may have been a king 65 million years ago, but it's reputation still lives today, and it always will. Thanks for reading!</p>
+<p>In conclusion, the epic Tyrannosaurus Rex, is an apex and supreme predator that can demolish alost every animal in the Animal Kingdom. This beast is continuing to surprise us in many ways, bringing new thoughts changing our view about science. It may have been a king 65 million years ago(m.y.a.), but it's reputation still lives today, and it always will. Thanks for reading!</p>
 <img src="https://www.wired.com/images_blogs/wiredscience/2009/09/sereno2hr.jpg">
