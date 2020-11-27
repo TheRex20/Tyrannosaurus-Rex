@@ -1,7 +1,7 @@
 <h1>Tyrannosaurus Rex</h1>
 Everything you should know about the famous, T-Rex, or Tyrannosaurus Rex
 
-<img src="https://cdn.newsapi.com.au/image/v1/c32e77ada066e25b416c4c515f35049f?width=400">
+<img src="https://cdn.newsapi.com.au/image/v1/c32e77ada066e25b416c4c515f35049f?width=400"> 
 
 Credits:
 <li>Created by RB-CODER-20</li>
