@@ -11,9 +11,15 @@ Credits:
 <li class="link-on-website"><a href="#paraOne">What is a T-Rex?</a></li>
 <li class="link-on-website"><a href="#paraTwo">Size and Facts</a></li>
 <li class="link-on-website"><a href="#paraThree">Characteristics</a></li>
+<li class="link-on-website"><a href="#paraFour">Final Few Statements</a></li>
 
 <h2 id="paraOne">What is a T-Rex?</h2>
-<p>Tthe famous Tyrannosaurus Rex, or also known as the T-Rex, is a very capable carnivore(Eats Meat), and is known as the king of Dinosaurs. It has many mind-blowing facts that you would have never guessed in a million years! But coming back onto the main topic, I will tell you all about this magnificent beast. There are also quite a few simple yet hard-to-respond-to questions about this animal, such as, why does it have such small arms? To learn more, I advise you to scroll down and read more. </p>
+<p>Tthe famous Tyrannosaurus Rex, or also known as the T-Rex, is a very capable carnivore(Eats Meat), and is known as the king of Dinosaurs. It has many mind-blowing facts that you would have never guessed in a million years! But coming back onto the main topic, I will tell you all about this magnificent beast. This animal is also shown in many blockbuster movies, such as:
+  <li>All the Jurassic Movies</li>
+  <li>Journey to the Center of the Earth</li>
+  <li>Land Before Time</li>
+  And many more...
+There are also quite a few simple yet hard-to-respond-to questions about this animal, such as, why does it have such small arms? To learn more, I advise you to scroll down and read more. </p>
 
 <h2 id="paraTwo">Size and Facts</h2>
 <img src="https://cdn.britannica.com/79/8079-050-8227DE49/Tyrannosaurus.jpg">
@@ -26,9 +32,11 @@ Credits:
 <li>Bite Force : 12,800 LB - This beast bites so hard, that crushing a bone is easier than breaking a tooth pick</li>
 <li>Eye Sight : 6 KM - This creature can visually see anything at a max rate of 6 KM!</li>
 <li>Definition of Name : Tyrant Lizard King - King of lizards, and all dinosaurs were lizards</li>
+<li>Lifespan : 30 years - Lived 65 m.y.a.(Million Years Ago)</li>
+<p>The T-Rex also is a scavenger, eats dead animals, and is a predator, hunts down predators. They could be found in packs or by themselves. Their size helped them scare off other big or small predators. For example, 3 or velociraptors honted down a triceratops. The t-rex just has to walk in, scare them with a frightening roar, and take their food. But T-Rexs' are also awesome ambushers. That means they hide, and when their prey walks in, the take one bite, and wound them. Then, they take another bite, and kill the animal. The reason it only takes a few bites, is because as I have mentioned above in the statistics, the bite force is very powerful. </p
 
 <h2>Characteristics</h2>
-<p><em>Diagram of Tyrannosaurus Rex:</em></p>
+<p><em>Image of a Tyrannosaurus Rex:</em></p>
 <img src="https://www.si.edu/sites/default/files/newsdesk/photos/skeleton.jpg">
 <p>The T-Rex, as you can see, has many characteristics. Such as:</p>
 <li>The T-Rex's Small Arms</li>
@@ -39,3 +47,4 @@ Credits:
 <li>Strong Ligaments</li>
 <li>Large Body</li>
 <li>Strong Jaw</li>
+
