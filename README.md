@@ -20,7 +20,7 @@ Credits:
   <li>Land Before Time</li>
   And many more...(P.S., watch the movies)
 There are also quite a few, simple, yet hard-to-respond-to questions about this animal, such as: Why does it have such small arms? To learn more, I advise you to scroll down and read more. </p>
-
+ 
 <h2 id="paraTwo">Size and Facts</h2>
 <img src="https://cdn.britannica.com/79/8079-050-8227DE49/Tyrannosaurus.jpg">
 <p>The T-Rex can reach very high results in multiple categories, such as length. Here are a few T-Rex statistics or facts:</p>
