@@ -11,7 +11,7 @@ Credits:
 <li class="link-on-website"><a href="#paraOne">What is a T-Rex?</a></li>
 <li class="link-on-website"><a href="#paraTwo">Size and Facts</a></li>
 <li class="link-on-website"><a href="#paraThree">Characteristics</a></li>
-<li class="link-on-website"><a href="#paraFour">Final Few Statements</a></li>
+<li class="link-on-website"><a href="#paraFour">Conclusion</a></li>
 
 <h2 id="paraOne">What is a T-Rex?</h2>
 <p>Tthe famous Tyrannosaurus Rex, or also known as the T-Rex, is a very capable carnivore(Eats Meat), and is known as the king of Dinosaurs. It has many mind-blowing facts that you would have never guessed in a million years! But coming back onto the main topic, I will tell you all about this magnificent beast. This animal is also shown in many blockbuster movies, such as:
@@ -48,3 +48,6 @@ There are also quite a few simple yet hard-to-respond-to questions about this an
 <li>Large Body</li>
 <li>Strong Jaw</li>
 
+<h2 id="paraFour">Conclusion</h2>
+<p>In conclusion, the epic Tyrannosaurus Rex, is an apex and supreme predator that can demolish alost every animal in the Animal Kingdom. This beast is continuing to surprise us in many ways, bringing new thoughts changing our view about science. It may have been a king 65 million years ago, but it's reputation still lives today, and it always will. Thanks for reading!</p>
+<img src="https://www.wired.com/images_blogs/wiredscience/2009/09/sereno2hr.jpg">
