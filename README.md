@@ -1,6 +1,6 @@
 <h1>Tyrannosaurus Rex, The Mighty King</h1>
 Everything you should know about the famous, Tyrannosaurus Rex, or a.k.a. T-Rex
-
+ 
 <img src="https://cdn.newsapi.com.au/image/v1/c32e77ada066e25b416c4c515f35049f?width=400">
 
 Credits:
